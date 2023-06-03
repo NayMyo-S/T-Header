@@ -30,7 +30,7 @@ for ((i=1; i<=7; i++)); do
 echo "│"
 done
 PUT 10 ${var4}
-echo -e "\e[32mBoot Script \e[33m2.0\e[0m"
+echo -e "\e[32mHappy\e[33mHacking\e[0m"
 PUT 12 0
 echo
 NORM
